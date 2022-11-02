@@ -6,10 +6,10 @@
 그래서인지 몰라도 최근 누구를 만나든지 자신의 MBTI를 공개하거나 상대의 MBTI를 묻는 사람들이 많아졌다.
 화두에 오른 성격유형검사(MBTI) 를 해주는 기능을 구현하였고, 팀원들의 MBTI를 소개하는 프로젝트를 구상해보았다.**
 ## Team members
-김영광 (GitHub Url : https://github.com/95Glory)
-최원일 (GitHub Url : https://github.com/wonillin)
-서예원 (GitHub Url : https://github.com/95Glory)
-강윤조 (GitHub Url : https://github.com/yunjo1)
+김영광 (GitHub Url : https://github.com/95Glory)  
+최원일 (GitHub Url : https://github.com/wonillin)  
+서예원 (GitHub Url : https://github.com/95Glory)  
+강윤조 (GitHub Url : https://github.com/yunjo1)  
 ## Language
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 ## Requirements
